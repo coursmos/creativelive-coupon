@@ -259,8 +259,6 @@ Got another code that worked for you? Share it in the comments. Want more exclus
 
 ## FAQs
 
-***
-
 ### Can I use more than one coupon code at CreativeLive?
 
 Nope. Only one code per order. Choose the highest-value one.

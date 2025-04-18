@@ -207,7 +207,7 @@ Applying a CreativeLive coupon is easy. Here’s exactly what to do:
       
 *   You can’t stack codes, use the one with the highest value.  
       
-## Pricing Snapshot from CreativeLive (April 2025)
+## Creativelive Pricing Plan
 
 <br> <div align="center"> <img src="https://github.com/coursmos/creativelive-coupon/blob/main/Img/9%20Creativelive%20Pricing%20Plan.png" alt="Creativelive Pricing Plan" width="649" height="auto" /> </div> <br>
 
